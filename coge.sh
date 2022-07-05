@@ -18,9 +18,9 @@ loglevel = 1
 
 socks5 = 188.74.182.55:8068
 
-socks5_username = berkahkita
+socks5_username = ingfoingfo
 
-socks5_password = kitabersama123
+socks5_password = maszZeehh
 
 END
 
