@@ -16,7 +16,7 @@ listen = :2233
 
 loglevel = 1
 
-socks5 = 185.212.160.28:7043
+socks5 = 188.74.182.55:8068
 
 socks5_username = berkahkita
 
